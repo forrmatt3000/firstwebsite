@@ -9,32 +9,28 @@
 
 /* -------  General Styles ------- */
 
-body {
-  margin: 0;
-  font-family: 'Roboto', sans-serif;
-	
-}
 
+/* header background */
 header {
-	height: 140px;
+	height: 120px;
 	background-color: #738290;
 	
 }
-
+/* forrest mattli */
 .logo {
   font-family: 'Roboto', sans-serif;
-  font-size: 55px;
+  font-size: 45px;
   color: #FFFCF7;
   text-align: center;
-  letter-spacing: -3;
+  letter-spacing: 10;
   margin: 0;
   padding: 20px 0 0 0;
 }
-
+/* software developer */
 header h2 {
 	font-family: 'Roboto', sans-serif;
 	color: #C2D8B9;
-	margin: 0px;
+	margin: 10px;
 	font-size: 18px;
 	text-align: center;
 }
@@ -44,13 +40,13 @@ footer {
 	
 
 }
-
+/* picture */
 section {
 	padding: 0 25%;
-  margin: 80px 0;
+  margin: 50px 0;
 }
 
-/* -------  Type ------- */
+/* -------  hello, im forrest, about forrest, contact forrest ------- */
 
 h1, h2, h3 {
   font-family: 'Roboto', sans-serif;
